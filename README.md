@@ -1,4 +1,4 @@
-# karabiner-caps-lock-disable
+# hyper-caps-lock
 
 OS X doesn't have a Hyper. This maps F3 to Control + Option + Command.
 
